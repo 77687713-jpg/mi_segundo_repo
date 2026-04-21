@@ -1,2 +1,1 @@
-#mi primer programa
-print("hola mundo")
+print("RAMA 3 - Panel administrativo")
