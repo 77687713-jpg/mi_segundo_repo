@@ -1,2 +1,1 @@
-#mi primer programa
-print("RAMA 2 - Login de usuarios")
+print("RAMA 2 - Login usuarios")
