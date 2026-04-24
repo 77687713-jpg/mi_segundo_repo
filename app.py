@@ -1,1 +1,1 @@
-print("RAMA 3 - Nueva funcionalidad")
+print("RAMA 3 - Panel administrativo")
