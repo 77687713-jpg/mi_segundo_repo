@@ -1,2 +1,2 @@
 #mi primer programa
-print("hola mundo")
+print("main-sistema base")
