@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("RAMA 1 - Registro usuarios")
-=======
-print("RAMA 2 - Login usuarios")
->>>>>>> rama2
+print("MAIN - Nueva modificacion importante")
